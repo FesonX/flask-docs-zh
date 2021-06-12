@@ -42,7 +42,7 @@
 - [ ] errorhandling [@qiufengyu](https://github.com/qiufengyu) Fengyu
 - [ ] extensiondev
 - [ ] extensions
-- [ ] foreword (reserved)
+- [x] foreword [@greyli](https://github.com/greyli) Grey Li
 - [ ] htmlfaq
 - [x] index [@greyli](https://github.com/greyli) Grey Li
 - [x] installation [@greyli](https://github.com/greyli) Grey Li
@@ -66,7 +66,7 @@
 - [ ] factory
 - [x] index [@greyli](https://github.com/greyli) Grey Li
 - [ ] install
-- [ ] layout
+- [x] layout [@greyli](https://github.com/greyli) Grey Li
 - [ ] next
 - [ ] static
 - [ ] templates
@@ -79,7 +79,7 @@
 - [ ] asgi
 - [ ] cgi
 - [ ] fastcgi
-- [ ] index [@180909](https://github.com/180909) 180909
+- [x] index [@180909](https://github.com/180909) 180909
 - [ ] mod_wsgi
 - [ ] uwsgi
 - [ ] wsgi-standalone
